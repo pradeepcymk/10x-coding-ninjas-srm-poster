@@ -29,4 +29,42 @@ The webpage mimics the layout and style of a typical event poster, presenting ke
 ---
 
 ## Folder Structure
+/ (root) │ ├── index.html         # Main HTML file with event poster content ├── style.css          # Stylesheet for layout and styling └── app.js             # Simple JavaScript for button interaction and basic animations
+
+
+---
+
+## How to Use
+
+1. **Clone the repository:**
+
+git clone https://github.com/pradeepcymk/10x-coding-ninjas-srm-poster.git
+
+
+2. **Open the webpage locally:**
+
+- Open the `index.html` file in your preferred web browser.
+
+3. **Modify the content:**
+
+- Edit the text in `index.html` to change event details.  
+- Adjust colors or layout by modifying `style.css`.  
+- Update or add simple interactivity in `app.js`.  
+
+---
+
+## Technologies Used
+
+- HTML5 (semantic tags)  
+- CSS3 (Flexbox, basic styling, media queries)  
+- JavaScript (DOM manipulation, event handling)  
+
+---
+
+- Building structured web pages with HTML  
+- Styling with CSS and using Flexbox for layouts  
+- Responsive web design fundamentals  
+- Adding basic interactivity with JavaScript  
+
+---
 
