@@ -28,12 +28,6 @@ The webpage mimics the layout and style of a typical event poster, presenting ke
 
 ---
 
-## Folder Structure
-/ (root) │ ├── index.html         # Main HTML file with event poster content ├── style.css          # Stylesheet for layout and styling └── app.js             # Simple JavaScript for button interaction and basic animations
-
-
----
-
 ## How to Use
 
 1. **Clone the repository:**
