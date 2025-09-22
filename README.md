@@ -13,7 +13,6 @@ The webpage mimics the layout and style of a typical event poster, presenting ke
 - **Time:** 10:00 AM - 6:00 PM
 - **Venue:** SRM Institute, Chennai
 - **Description:** Ultimate Programming Challenge with coding competitions, tech talks, networking, and prizes worth ₹50,000.
-- **Audience:** First-year students and beginners learning web development
 
 ---
 
